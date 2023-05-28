@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-port-lligat-slab: "Port Lligat Slab";
+  --font-alegreya-sc: "Alegreya SC";
+  --font-limelight: Limelight;
+
+  /* Colors */
+  --color-slategray: #685c79;
+}
